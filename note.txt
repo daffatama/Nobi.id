@@ -1,0 +1,17 @@
+Nama 	: Daffa Tama Ramadani
+NPM 	: 1910631170013
+Kelas 	: TI 2.C
+------------------------------------
+Software yang digunakan :
+  * Sublime Text 3
+  * MinGW
+------------------------------------
+Program Booking Tiket Bioskop Sederhana (NOBI.ID)
+
+Terdapat 3 file program:
+  * main.cpp (File Utama)
+  * style.h (Berisi fungsi untuk mempermudah dalam mengatur tampilan)
+  * menu.h (Berisi desain tampilan menu agar kodingan di main lebih singkat dan tidak terlalu acak-acakan)
+
+File MS. VISIO:
+  * UML Diagram Activity sebagai penjelasan cara kerja sistem NOBI.ID (Ada dalam bentuk .pdf)
